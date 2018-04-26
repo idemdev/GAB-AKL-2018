@@ -1,7 +1,13 @@
 # GAB-AKL-2018
-This is the Github repository for the Global Azure Bootcamp - Auckland - 2018
+This is the Github repository for the Global Azure Bootcamp - Auckland - 2018.
+
+[Website](http://auckland.azurebootcamp.net/)
 
 The presentation slides are here.
+
+# Also
+
+[Wandering into Azure via Scripts and Automation](https://github.com/azaklbootcamp/sessionnotes)
 
 # Other
 
